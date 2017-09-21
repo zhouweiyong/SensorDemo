@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/layout_root">
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="所以如果设置的时间值太小"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="据了解，每年的2、3月份是开发区东海岛民俗年例比较集中的时间，期间会举行游神等祭祀活动。本来是喜庆的日子，却因为不法分子肆意妄为让调伦村今年的年例蒙上了阴影。今年2月份，调伦村村民王某非等人声称神灵附体成为“神童”，他们借着游神活动，寻衅滋事，行为极其恶劣。在一村干部家中踢翻村干部送上的茶水，打伤前来劝阻的亲友，当其神童身份受到质疑时，便装神弄鬼威胁恐吓，逼迫约60人跪地认错近10分钟，众人敢怒而不敢言。他们以东海自来水厂破坏了村里的风水为由，对水厂放置在工地的三个集装箱房进行打砸，并放火将集装箱全部烧毁，幸好无人员伤亡。他们还以“神童”的名义要求村干部与他们议事，向他们汇报村里各项开支情况，稍有不从就对村干部及其家人拳脚相向，逼他们向“神童”认错。并扬言“血洗某某村，踏平村神庙”，气焰十分嚣张，后来真的带人将该村庙砸坏。"/>
+
+
+
+</LinearLayout>
